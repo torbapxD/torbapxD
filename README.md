@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @torbapxD
 - 👀 I’m interested in Coding, Editing, Blogging
-- 🌱 I’m currently learning Networking 
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently learning Networking  
 - 📫 How to reach me t@me/torbapxD
 
 <!---
